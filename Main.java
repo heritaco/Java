@@ -10,6 +10,7 @@ public class Main { // Declara una clase pública llamada Main. En Java, cada ar
 
         Scanner scanner = new Scanner(System.in); // Crea un objeto Scanner que lee de la entrada estándar (System.in,
                                                   // que es normalmente el teclado).
+        scanner.close(); // Cierra el objeto Scanner.
 
         System.out.println("Hola Mundo"); // Imprime "Hola Mundo" en la consola.
 

@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class tuto_GUI_004 { // grafical user interface
+public class J004_GUI { // grafical user interface
     public static void main(String[] args) {
         // TODO Auto-generated method stub
 

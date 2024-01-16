@@ -1,6 +1,6 @@
 import java.util.Scanner; // Importa la clase Scanner del paquete java.util. Esta clase se utiliza para leer la entrada del usuario.
 
-public class Main { // Declara una clase pública llamada Main. En Java, cada archivo de código
+public class C1_Main { // Declara una clase pública llamada Main. En Java, cada archivo de código
                     // fuente debe contener una clase pública que coincida con el nombre del
                     // archivo.
 

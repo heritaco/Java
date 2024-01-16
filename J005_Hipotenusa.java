@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class hipotenusa_0051 {
+public class J005_Hipotenusa {
 
 	public static void main(String[] args) {
 		

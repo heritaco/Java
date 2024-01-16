@@ -1,4 +1,4 @@
-public class math_005 {
+public class J005_Math {
 
     public static void main(String[] args) {
 

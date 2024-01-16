@@ -1,4 +1,4 @@
-public class Tuto1 {
+public class J001_Tuto1 {
     public static void main(String[] args) {
         int x = 123;
         double pi = 3.14159265359;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main2 {
+public class C2_Main2 {
     public static void main(String[] args) { // Define el método principal que se ejecuta cuando se inicia tu programa.
                                              // Los argumentos de la línea de comandos se pasan a este método en el
                                              // array de Strings args.

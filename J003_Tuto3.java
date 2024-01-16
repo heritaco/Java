@@ -1,4 +1,4 @@
-public class tuto_003 {
+public class J003_Tuto3 {
 
     public static void main(String[] args) {
 

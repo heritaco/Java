@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class date {
+public class DB01_date {
 
     public static void main(String[] args) {
         Date d = new Date();

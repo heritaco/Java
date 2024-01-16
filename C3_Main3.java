@@ -3,7 +3,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-public class Main3 { //database example 
+public class C3_Main3 { //database example 
     public static void main(String[] args) {
         // Database connection parameters
         String url = "jdbc:mysql://localhost:3306/mydatabase";

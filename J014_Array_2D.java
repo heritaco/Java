@@ -10,7 +10,7 @@ public class J014_Array_2D {
                 { "Ferrari", "Lambo", "Tesla" }
         };
 
-        /*
+        /* String[][] cars = new String[3][3];
          * cars[0][0] = "Camaro";
          * cars[0][1] = "Corvette";
          * cars[0][2] = "Silverado";
@@ -22,9 +22,9 @@ public class J014_Array_2D {
          * cars[2][2] = "Tesla";
          */
 
-        for (int i = 0; i < cars.length; i++) {
-            System.out.println();
-            for (int j = 0; j < cars[i].length; j++) {
+        for (int i = 0; i < cars.length; i++) { 
+            System.out.println(); 
+            for (int j = 0; j < cars[i].length; j++) { // cars[i] es el array, cars[i].length es el length del array
                 System.out.print(cars[i][j] + " ");
             }
         }
